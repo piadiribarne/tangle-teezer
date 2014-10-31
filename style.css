@@ -96,6 +96,7 @@ body{
 .purple-bg{
   color: white;
   background: #931ba3;
+  padding: 1em;
 }
 
 .social{
@@ -110,7 +111,7 @@ body{
 
 .social a {
   font-size: 30px;
-  line-height: 50px;
+  line-height: 20px;
   color: purple;
   transition: color 0.3s ease;
   -webkit-transition: color 0.3s ease;
@@ -122,7 +123,7 @@ body{
 }
 
 .purple-bg p{
-  line-height: 50px;
+  line-height: 20px;
 }
 
 .form-inline .form-control{
